@@ -1,2 +1,2 @@
 # MetaCom
-A Binning Tool for Meta-genomic Reads with Community prediction
+A Binning Tool for Meta-genomic Reads with Community detection
