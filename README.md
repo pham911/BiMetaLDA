@@ -1,2 +1,2 @@
-# BiMetaLDA
-A Binning Tool for Meta-genomic Reads
+# MetaCom
+A Binning Tool for Meta-genomic Reads with Community prediction
